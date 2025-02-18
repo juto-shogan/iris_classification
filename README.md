@@ -1,13 +1,13 @@
-###Basic IRIS classifier
+### Basic IRIS classifier
 
-##Libraries used:
-numpy
-pandas
-matplotlib
-seaborn
-sklearn
+## Libraries used:
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
 
-##installation:
+## installation:
 windows
 '''
 pip install numpy pandas matplotlib seaborn sklearn
