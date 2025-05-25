@@ -1,13 +1,9 @@
 import numpy as np
 import pandas as pd
-import matplotlib 
-import matplotlib.pyplot as plt
-import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
-
 data = pd.read_csv('data/IRIS.csv')
 
 x=data.iloc[:,:4]
